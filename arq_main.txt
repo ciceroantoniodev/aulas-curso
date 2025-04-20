@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Arquivo da branch "main"
+=======
+Arquivo da branch "main"
+>>>>>>> teste_2
